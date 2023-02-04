@@ -1,4 +1,4 @@
-This repo is just a minimal version of the original repo used for the [Medium]() article I wrote.
+This repo is just a minimal version of the original repo used for the [Medium](https://gmongaras.medium.com/coding-a-virtual-ai-girlfriend-f951e648aa46) article I wrote.
 
 The original code can be found [here](https://github.com/gmongaras/AI_Girlfriend)
 
